@@ -1,0 +1,2 @@
+# whatbeertobrew
+The US is home to over 6,000 breweries. Craft beer has grown in popularity significantly over the last ten years and with the increase in competition and growth in the craft beer drinking community, I have taken a deeper look into what beer drinkers are drinking and enjoying the most. Can a brewery use consumer data to produce a beer that will become popular amongst craft drinker? If so, how much insight can be incorporated into the production of the beer. 
