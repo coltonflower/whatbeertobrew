@@ -6,3 +6,4 @@ The data used in this project is from beeradvocate.com. It includes 1.5 million 
 
 I used aws, specifically s3 and sagemaker to complete this project. 
 
+I alos have a short slide deck covering my process and findings.
